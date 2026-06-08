@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizcausevic-dev.github.io/terraform-iac-drift-register/sitemap.xml
